@@ -15,3 +15,23 @@ April 26, 2025
 
 ## 🔥 Notes
 Building strong basics is the foundation for becoming a successful cybersecurity professional. Consistency matters more than speed!
+
+
+
+# Day 2 - Linux Commands + Cybersecurity Basics
+
+## ✅ What I Practiced:
+- Basic Linux navigation and file handling commands
+- System information and user permission commands
+- Practiced inside Kali Linux terminal
+
+## ✅ What I Learned:
+- CIA Triad importance in cybersecurity
+- How Firewalls and IDS/IPS protect systems
+- Types of cyber attacks (phishing, malware, social engineering)
+
+## 📅 Date
+April 27, 2025
+
+## 🔥 Reflection:
+feeling something fresh.
