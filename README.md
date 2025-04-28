@@ -35,3 +35,46 @@ April 27, 2025
 
 ## 🔥 Reflection:
 feeling something fresh.
+
+## Day 3 - Intermediate Linux Skills & Cybersecurity Basics
+#🚀 Today's Focus:
+1.Intermediate Linux Skills
+2.Cybersecurity Concepts: Threat Actors and Attack Vectors
+
+##🖥️ Commands Practiced:
+➔ Linux File Permissions:
+chmod — Change file permissions
+
+chown — Change file ownership
+
+chgrp — Change file group ownership
+
+➔ User Management:
+adduser — Create a new user
+
+deluser — Delete a user
+
+passwd — Set or change user password
+
+su  — Switch user
+
+whoami — Display current username
+
+##🛡️ Cybersecurity Concepts Learned:
+Threat Actors — Individuals or groups behind cyber attacks (e.g., Hackers, Nation-states, Insiders, Cyber crimimals, Hacktivist, cyber Terrorist etc)
+
+Attack Vectors — Methods used to breach systems (e.g., Malware, Phishing, Exploiting vulnerabilities etc)
+
+##🧠 Conclusion:
+Understanding Linux permissions is essential to secure files and systems.
+Proper user management helps prevent unauthorized access.
+Recognizing common threat actors and attack vectors builds strong cyber defense awareness.
+
+##📂 Practice Artifacts:
+Test files for permission changes
+User creation and switching exercises
+Notes on threat actors and attack vectors
+Test multiple usecases
+
+##📅 Date:
+April 28, 2025
