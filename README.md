@@ -149,3 +149,46 @@ How SOC analysts use these tools for incident response and diagnostics.
 
 ##📅 Date:
 April 29, 2025
+
+
+# 🚀 Day 5 – Linux Permissions and User Management
+
+## ✅ What I Learned Today
+
+### 🔐 File & Directory Permissions
+- **Read (r), Write (w), Execute (x)** permissions for User, Group, and Others
+- Viewing permissions: `ls -l`
+- Modifying permissions:
+  - `chmod 755 filename`
+  - Symbolic method: `chmod u+x file`
+- Special permissions:
+  - SUID (chmod 4755)
+  - SGID (chmod 2755)
+  - Sticky bit(chmod +t)
+  - visudo- Add to sudo
+
+### 👤 User & Group Management
+- Add user: `adduser username`
+- Delete user: `deluser username`
+- Modify user: `usermod -aG groupname username`
+- Create group: `addgroup groupname`
+- View users: `cat /etc/passwd`
+- View groups: `cat /etc/group`
+- Set/change password: `passwd username`
+
+### 🛡 Security Relevance
+- Proper permissions prevent unauthorized access and privilege escalation.
+- Misconfigurations like world-writable files or wrong ownership can be exploited.
+
+## 🔁 Commands Practiced
+```bash
+ls -l
+chmod 755 test.sh
+chmod u+x file
+chown user:group file
+adduser test1
+deluser test1
+usermod -aG sudo test1
+passwd test1
+##📅 Date:
+April 30, 2025
