@@ -192,3 +192,41 @@ usermod -aG sudo test1
 passwd test1
 ##📅 Date:
 April 30, 2025
+
+
+# Day 6: Networking Basics
+
+## 🧠 What I Learned
+- What is an IP address (IPv4 vs IPv6)
+- MAC Address
+- Subnet Mask
+- Default Gateway
+- DNS (Domain Name System)
+- Types of IP Addresses (Private vs Public, Static vs Dynamic)
+- What is DHCP (Dynamic Host Configuration Protocol)
+- Basic Networking Commands: ping, ip a, ifconfig, netstat
+
+## 💻 Commands Practiced
+
+ping google.com
+ip a
+ip route   
+ifconfig
+netstat -r
+traceroute google.com  
+nslookup google.com
+
+
+## 📝 Notes
+- IP is like a digital address to identify devices on a network.
+- MAC is a unique hardware ID burned into the network card.
+- Subnet Mask separates the network and host portions of an IP.
+- DNS resolves domain names into IP addresses.
+- DHCP dynamically assigns IP addresses to devices.
+
+## 🔁 Addons
+- Difference between Static and Dynamic IP
+- Private IP Ranges and their uses
+
+##📅 Date:
+May 1, 2025
